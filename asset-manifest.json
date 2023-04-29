@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/antique-deploy/static/css/main.4114cfd6.css",
+    "main.js": "/antique-deploy/static/js/main.87c61595.js",
+    "static/media/image8.jpg": "/antique-deploy/static/media/image8.d14cd974e935b6b31eb5.jpg",
+    "static/media/12pendant.jpg": "/antique-deploy/static/media/12pendant.b78cc9ec62fc61455d9c.jpg",
+    "static/media/11chatai.jpg": "/antique-deploy/static/media/11chatai.5eb66e1532198b212f73.jpg",
+    "static/media/image11.jpg": "/antique-deploy/static/media/image11.10dd650f71ea0bbfaa4a.jpg",
+    "static/media/9bhole.jpg": "/antique-deploy/static/media/9bhole.00628f86d93de9279673.jpg",
+    "static/media/image1.jpg": "/antique-deploy/static/media/image1.5cd47e9c939fe55d3886.jpg",
+    "static/media/8bangles.jpg": "/antique-deploy/static/media/8bangles.d5a3915ff78f9b494918.jpg",
+    "static/media/image5.jpg": "/antique-deploy/static/media/image5.d5a3915ff78f9b494918.jpg",
+    "static/media/image9.jpg": "/antique-deploy/static/media/image9.481a94305cd5fbf70c63.jpg",
+    "static/media/10mug.jpg": "/antique-deploy/static/media/10mug.c0b4704d08d33da809d3.jpg",
+    "static/media/2coins.jpg": "/antique-deploy/static/media/2coins.326d64f9a0f936f8b7d3.jpg",
+    "static/media/5buddha.jpg": "/antique-deploy/static/media/5buddha.1f11627673b3644c44fe.jpg",
+    "static/media/image4.jpg": "/antique-deploy/static/media/image4.1f11627673b3644c44fe.jpg",
+    "static/media/vecteezy.jpg": "/antique-deploy/static/media/vecteezy.10fd539500b7a0db57ad.jpg",
+    "static/media/image7.jpg": "/antique-deploy/static/media/image7.adcf7a2a85d17ce24057.jpg",
+    "static/media/image10.jpg": "/antique-deploy/static/media/image10.e7f6c3d537595714658c.jpg",
+    "static/media/1chess.jpg": "/antique-deploy/static/media/1chess.d21429618213180c5679.jpg",
+    "static/media/4disc.jpg": "/antique-deploy/static/media/4disc.b85dcfbbfebfc98f6f0c.jpg",
+    "static/media/image12.jpg": "/antique-deploy/static/media/image12.07a01b7102c8632d7f35.jpg",
+    "static/media/telescope-ta.png": "/antique-deploy/static/media/telescope-ta.98c7ef211b5a0f4e8f9a.png",
+    "static/media/image6.jpg": "/antique-deploy/static/media/image6.dd0ccbbd81a47ee5aa62.jpg",
+    "static/media/6elephant.jpg": "/antique-deploy/static/media/6elephant.77b2b827727b729600a9.jpg",
+    "static/media/image2.jpg": "/antique-deploy/static/media/image2.b1cf110bb73d566ea9f8.jpg",
+    "static/media/7matka.jpg": "/antique-deploy/static/media/7matka.8fe45d54d8cf554b14ed.jpg",
+    "static/media/3deer.jpg": "/antique-deploy/static/media/3deer.6bbb56783b2724d6415d.jpg",
+    "static/media/classic-wallpaper.jpg": "/antique-deploy/static/media/classic-wallpaper.99663106cf66a0c4d252.jpg",
+    "static/media/image3.jpg": "/antique-deploy/static/media/image3.d348f65bba97eeb26146.jpg",
+    "index.html": "/antique-deploy/index.html",
+    "main.4114cfd6.css.map": "/antique-deploy/static/css/main.4114cfd6.css.map",
+    "main.87c61595.js.map": "/antique-deploy/static/js/main.87c61595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4114cfd6.css",
+    "static/js/main.87c61595.js"
+  ]
+}
